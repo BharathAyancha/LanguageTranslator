@@ -13,12 +13,12 @@ A React-based web application for translating text between languages.
 ## Tech Stack
 
 - Frontend: React, Redux, React Router
-- API: Google Translate API
+- API: Microsoft Translate API
 - Styling: CSS, Material-UI
 
 ## Getting Started
 
-1. Clone the repository: 
+1. Clone the repository: `https://github.com/BharathAyancha/LanguageTranslator.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
